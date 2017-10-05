@@ -24,3 +24,6 @@ while bottles > 0 do
     puts line3
   end
 end
+
+puts "First commit"
+
